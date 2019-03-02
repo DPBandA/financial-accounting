@@ -1,2 +1,2 @@
-# accounting
-A financial accounting enterprise application
+# Financial Accounting
+A financial accounting enterprise application.
